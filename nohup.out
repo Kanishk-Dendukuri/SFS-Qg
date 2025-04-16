@@ -1,0 +1,22 @@
+[I 2024-11-14 15:32:58.460 LabApp] JupyterLab extension loaded from /Users/kanishk/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2024-11-14 15:32:58.460 LabApp] JupyterLab application directory is /Users/kanishk/opt/anaconda3/share/jupyter/lab
+[I 15:32:58.464 NotebookApp] Serving notebooks from local directory: /Users/kanishk/Downloads/for Kanishk/cooking
+[I 15:32:58.464 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 15:32:58.464 NotebookApp] http://localhost:8888/?token=fb78df018e08eabeeaaf4ab2be3f161c20d396b79acfe9b9
+[I 15:32:58.464 NotebookApp]  or http://127.0.0.1:8888/?token=fb78df018e08eabeeaaf4ab2be3f161c20d396b79acfe9b9
+[I 15:32:58.465 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:32:58.469 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/kanishk/Library/Jupyter/runtime/nbserver-90286-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=fb78df018e08eabeeaaf4ab2be3f161c20d396b79acfe9b9
+     or http://127.0.0.1:8888/?token=fb78df018e08eabeeaaf4ab2be3f161c20d396b79acfe9b9
+[W 15:32:59.534 NotebookApp] 404 GET /api/kernels/cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a/channels?session_id=5e141057c5eb46ccb6fa0af72e0c3a6a (127.0.0.1): Kernel does not exist: cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a
+[W 15:32:59.581 NotebookApp] 404 GET /api/kernels/cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a/channels?session_id=5e141057c5eb46ccb6fa0af72e0c3a6a (127.0.0.1) 53.460000ms referer=None
+[W 15:33:00.547 NotebookApp] 404 GET /api/kernels/577fdc29-2321-40b4-814b-b9d5c78b961d/channels?session_id=67f2a38133ea4e3b9558513e5b0ce3f5 (127.0.0.1): Kernel does not exist: 577fdc29-2321-40b4-814b-b9d5c78b961d
+[W 15:33:00.548 NotebookApp] 404 GET /api/kernels/577fdc29-2321-40b4-814b-b9d5c78b961d/channels?session_id=67f2a38133ea4e3b9558513e5b0ce3f5 (127.0.0.1) 1.820000ms referer=None
+[W 15:33:31.936 NotebookApp] 404 GET /api/kernels/cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a/channels?session_id=5e141057c5eb46ccb6fa0af72e0c3a6a (127.0.0.1): Kernel does not exist: cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a
+[W 15:33:31.939 NotebookApp] 404 GET /api/kernels/cf34dfb8-0f15-402a-bec0-f16dd2a9eb0a/channels?session_id=5e141057c5eb46ccb6fa0af72e0c3a6a (127.0.0.1) 4.970000ms referer=None
+[W 15:33:32.947 NotebookApp] 404 GET /api/kernels/577fdc29-2321-40b4-814b-b9d5c78b961d/channels?session_id=67f2a38133ea4e3b9558513e5b0ce3f5 (127.0.0.1): Kernel does not exist: 577fdc29-2321-40b4-814b-b9d5c78b961d
+[W 15:33:32.952 NotebookApp] 404 GET /api/kernels/577fdc29-2321-40b4-814b-b9d5c78b961d/channels?session_id=67f2a38133ea4e3b9558513e5b0ce3f5 (127.0.0.1) 7.080000ms referer=None
